@@ -1,4 +1,4 @@
-//Paredes
+
 package Modelo;
 public class Especialista {
     private int id;
